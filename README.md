@@ -1,7 +1,7 @@
 ### 🤝 Nice way to meet me
 
 <p>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Blog-F551E2?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://azeomi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-F551E2?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="https://www.instagram.com/aaajeong0__ri/" target="_blank"><img src="https://img.shields.io/badge/aaajeong0__ri-5155F5?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:ahjeong@sookmyung.ac.kr" target="_blank"><img src="https://img.shields.io/badge/ahjeong@sookmyung.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
