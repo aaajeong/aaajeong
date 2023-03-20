@@ -8,7 +8,7 @@
 
 <p>
   👋&nbsp; Hi there! My name is Ahjeong Park. <br/>
-  I’m a Master’s student in IT Engineering at SMWU and working on KIE lab. <br/>
+  I’m a Ph.D. student in IT Engineering at SMWU and working on KIE lab. <br/>
   I’m currently learning various Ensemble methods, NLP and AI. <br/>
   Hope: Not my own growth, For our growth. <br/> <br/>
   
