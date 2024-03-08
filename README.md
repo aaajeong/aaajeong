@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://azeomi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-F551E2?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:ahjeong@sookmyung.ac.kr" target="_blank"><img src="https://img.shields.io/badge/ahjeong@sookmyung.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:ajeongi59@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ajeongi59@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p>
